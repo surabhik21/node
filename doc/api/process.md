@@ -1971,7 +1971,7 @@ A boolean value that is `true` if the current Node.js build includes support for
 ## `process.features.typescript`
 
 <!-- YAML
-added: REPLACEME
+added: v22.10.0
 -->
 
 > Stability: 1.0 - Early development

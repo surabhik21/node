@@ -2436,7 +2436,7 @@ object.
 ### `ERR_QUIC_CONNECTION_FAILED`
 
 <!-- YAML
-added: REPLACEME
+added: v22.10.0
 -->
 
 > Stability: 1 - Experimental
@@ -2448,7 +2448,7 @@ Establishing a QUIC connection failed.
 ### `ERR_QUIC_ENDPOINT_CLOSED`
 
 <!-- YAML
-added: REPLACEME
+added: v22.10.0
 -->
 
 > Stability: 1 - Experimental
@@ -2460,7 +2460,7 @@ A QUIC Endpoint closed with an error.
 ### `ERR_QUIC_OPEN_STREAM_FAILED`
 
 <!-- YAML
-added: REPLACEME
+added: v22.10.0
 -->
 
 > Stability: 1 - Experimental
